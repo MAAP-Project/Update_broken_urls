@@ -23,14 +23,22 @@ aap-prod
 
 Were updated to “nasa-maap”
 
-## The granule_ur name is different in GCC Ops, i.e., it’s missing a ‘T’ character in its name.
+## The granule_ur name is different in GCC Ops
+The following granule missing a ‘T’ character in its name.
+
 ```
 s3://cumulus-map-internal/file-staging/nasa-map/SENTINEL-1B_DP_GRD_HIGH___1/S1B_IW_GRDH_1SDV_20170720T104532_20170720104557_006570_00B8E0_D8A3.zip
+```
+
 Was updated to:
+
+```
 s3://nasa-maap-data-store/file-staging/nasa-map/SENTINEL-1B_DP_GRD_HIGH___1/S1B_IW_GRDH_1SDV_20170720T104532_20170720T104557_006570_00B8E0_D8A3.zip
 ```
 
-## Some granules are missing (or I cannot find a similar one in GCC Ops)
+## Some granules are missing
+Cannot find similar url links in GCC Ops for the following granules
+
 ```
 s3://nasa-maap-data-store/file-staging/nasa-map/kb_reprj_biomass___1/kb_most_awesome_output.out.tif
 
