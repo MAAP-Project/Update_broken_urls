@@ -51,5 +51,5 @@ python Update_Check_URL_links.py
 Output is in the badurls_fixed.csv
 
 For debugging purposes:
-    - List of good urls are in List_Fixed_url.csv
-    - List of bad urls are in List_broken_links.csv (See above information to know why those url links are still broken)
+*  List of good urls are in List_Fixed_url.csv
+*  List of bad urls are in List_broken_links.csv (See above information to know why those url links are still broken)
