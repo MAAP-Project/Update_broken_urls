@@ -1,6 +1,6 @@
+granule_ur,collection_name,collection_version,updated_link
 S1B_IW_GRDH_1SDV_20170720T104532_20170720T104557_006570_00B8E0_D8A3,SENTINEL-1B_DP_GRD_HIGH,1,s3://nasa-maap-data-store/file-staging/nasa-map/SENTINEL-1B_DP_GRD_HIGH___1/S1B_IW_GRDH_1SDV_20170720T104532_20170720T104557_006570_00B8E0_D8A3.zip
 3B-HHR.MS.MRG.3IMERG.20180101-S000000-E002959.0000.V05B.HDF5,GPM_3IMERGHH,05,s3://nasa-maap-data-store/file-staging/nasa-map/GPM_3IMERGHH___05/3B-HHR.MS.MRG.3IMERG.20180101-S000000-E002959.0000.V05B.HDF5
-kb_reprj_biomass.kb_most_awesome_output.out.tif,kb_reprj_biomass,1,s3://nasa-maap-data-store/file-staging/nasa-map/kb_reprj_biomass___1/kb_most_awesome_output.out.tif
 ATL08.SC:ATL08.003:177966046,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190126082734_04410210_003_01.h5
 ATL08.SC:ATL08.003:178020606,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190319192701_12420212_003_01.h5
 ATL08.SC:ATL08.003:178013185,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190329053118_13860210_003_01.h5
@@ -8,7 +8,6 @@ ATL08.SC:ATL08.003:177994374,ATL08,003,s3://nasa-maap-data-store/file-staging/na
 ATL08.SC:ATL08.003:177990548,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190409032904_01660306_003_01.h5
 ATL08.SC:ATL08.003:177990786,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190410030325_01810306_003_01.h5
 ATL08.SC:ATL08.003:178031317,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190411144735_02040302_003_01.h5
-LE071820612019041601T1-SC20190528125926.tar.gz,Landsat7_SurfaceReflectance,1,s3://nasa-maap-data-store/file-staging/nasa-map/Landsat7_SurfaceReflectance___1/LE071820612019041601T1-SC20190528131738.tar.gz
 GEDI02_B.SC:GEDI02_B.001:2352994109,GEDI02_B,001,s3://nasa-maap-data-store/file-staging/nasa-map/GEDI02_B___001/GEDI02_B_2019108002011_O01959_T03909_02_001_01.h5
 GEDI01_B.SC:GEDI01_B.001:2352068293,GEDI01_B,001,s3://nasa-maap-data-store/file-staging/nasa-map/GEDI01_B___001/GEDI01_B_2019108032534_O01961_T03911_02_003_01.h5
 GEDI01_B.SC:GEDI01_B.001:2352070075,GEDI01_B,001,s3://nasa-maap-data-store/file-staging/nasa-map/GEDI01_B___001/GEDI01_B_2019108063056_O01963_T01067_02_003_01.h5
@@ -32,9 +31,6 @@ ATL08.SC:ATL08.003:178078150,ATL08,003,s3://nasa-maap-data-store/file-staging/na
 ATL08.SC:ATL08.003:178079171,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190513013102_06840306_003_01.h5
 ATL08.SC:ATL08.003:177999728,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190514131512_07070302_003_01.h5
 ATL08.SC:ATL08.003:178115420,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190516163858_07390312_003_01.h5
-SC:LVISF1B.001:177727868,LVISF1B,1,s3://nasa-maap-data-store/file-staging/nasa-map/LVISF1B___001/LVISF1B_GEDI2019_0521_R2003_075511.h5
-SC:LVISF1B.001:177728845,LVISF1B,1,s3://nasa-maap-data-store/file-staging/nasa-map/LVISF1B___001/LVISF1B_GEDI2019_0521_R2003_088052.h5
-SC:LVISF1B.001:177729236,LVISF1B,1,s3://nasa-maap-data-store/file-staging/nasa-map/LVISF1B___001/LVISF1B_GEDI2019_0521_R2003_091010.h5
 ATL08.SC:ATL08.003:178102010,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190522025134_08220310_003_01.h5
 ATL08.SC:ATL08.003:178103336,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190526024314_08830310_003_01.h5
 ATL08.SC:ATL08.003:177997852,ATL08,003,s3://nasa-maap-data-store/file-staging/nasa-map/ATL08___003/ATL08_20190527122430_09050302_003_01.h5
