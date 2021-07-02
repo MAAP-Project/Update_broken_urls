@@ -1,0 +1,5 @@
+0: s3://nasa-maap-data-store/file-staging/nasa-map/kb_reprj_biomass___1/kb_most_awesome_output.out.tif
+1: s3://nasa-maap-data-store/file-staging/nasa-map/Landsat7_SurfaceReflectance___1/LE071820612019041601T1-SC20190528131738.tar.gz
+2: s3://nasa-maap-data-store/file-staging/nasa-map/LVISF1B___001/LVISF1B_GEDI2019_0521_R2003_075511.h5
+3: s3://nasa-maap-data-store/file-staging/nasa-map/LVISF1B___001/LVISF1B_GEDI2019_0521_R2003_088052.h5
+4: s3://nasa-maap-data-store/file-staging/nasa-map/LVISF1B___001/LVISF1B_GEDI2019_0521_R2003_091010.h5
