@@ -33,7 +33,7 @@ with open('badurls_fixed.csv', 'r') as csvfile:
                 headers = {
                     'Content-Type': 'application/echo10+xml',
                     # ADD ECHO TOKEN TO YOUR ENVIRONMENT
-                    'Echo-Token': os.getenv('Echo-Token')
+                    'Echo-Token': os.getenv('ECHO_TOKEN')
                     })
             if update_response.status_code == 200:
                 print(f"Successfully updated {granule_search_url}")
