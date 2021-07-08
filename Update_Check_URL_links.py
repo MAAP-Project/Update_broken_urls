@@ -2,9 +2,8 @@ import re
 import csv
 import boto3
 from botocore.errorfactory import ClientError
-#import urllib.request
-#import xml.etree.ElementTree as ET
-#import pandas
+import requests
+import xml.etree.ElementTree as ET
 
 def fix_broken_url(url):
     result = url.replace("cumulus-map-internal", "nasa-maap-data-store", 1).\
